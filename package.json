@@ -1,0 +1,22 @@
+{
+  "name": "mongo-one",
+  "version": "1.0.0",
+  "description": "Couse of MongoDB with NodeJs, of Youtube channel The Net Ninja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncnegoleo/thenetninja-mongo.git"
+  },
+  "author": "Leonardo Soares <leonardo.soares.ws@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncnegoleo/thenetninja-mongo/issues"
+  },
+  "homepage": "https://github.com/ncnegoleo/thenetninja-mongo#readme",
+  "dependencies": {
+    "mongoose": "^4.9.5"
+  }
+}
