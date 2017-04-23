@@ -4,7 +4,7 @@
   "description": "Couse of MongoDB with NodeJs, of Youtube channel The Net Ninja",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/ncnegoleo/thenetninja-mongo#readme",
   "dependencies": {
+    "mocha": "^3.2.0",
     "mongoose": "^4.9.5"
   }
 }
